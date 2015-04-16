@@ -1,0 +1,10 @@
+=encoding utf8
+
+=head1 The Email::Grep CPAN Module
+
+This aims to be a Perl 5/CPAN Distribution for searching local
+E-mail archives for matching E-mails based on logic in Perl.
+
+Licence is the MIT/X11 licence.
+
+=cut
