@@ -3,7 +3,7 @@ package Email::Grep;
 use strict;
 use warnings;
 
-our $VERSION = '0.0.1';
+our $VERSION = 'v0.0.1';
 
 1;
 
